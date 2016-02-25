@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "31907296CFD941DD0C57D814AF90D1AF19CCC20D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "31907296CFD941DD0C57D814AF90D1AF19CCC20D" : 0,
+    "D0935097B0F2399C6AC7D0C1316ED34E9B347F4C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0A389A65-5A17-4505-A13A-F000BFAE9FAB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "31907296CFD941DD0C57D814AF90D1AF19CCC20D" : "Task\/",
+    "D0935097B0F2399C6AC7D0C1316ED34E9B347F4C" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Task",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Task.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bennerg2\/Task.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "31907296CFD941DD0C57D814AF90D1AF19CCC20D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bennerg2\/DevMountain.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0935097B0F2399C6AC7D0C1316ED34E9B347F4C"
+    }
+  ]
+}
